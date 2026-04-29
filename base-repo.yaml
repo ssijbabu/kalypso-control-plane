@@ -3,7 +3,7 @@ kind: BaseRepo
 metadata:
   name: main
 spec:
-  repo: https://github.com/microsoft/kalypso-control-plane
+  repo: https://github.com/ssijbabu/kalypso-control-plane
   branch: main
   path: .
   commit: 4a0821c4376423b6a9e6b010bac8fe96616bd6e7
