@@ -1,7 +1,7 @@
 apiVersion: scheduler.kalypso.io/v1alpha1
 kind: GitOpsRepo
 metadata:
-  name: dev
+  name: dv
 spec:
   repo: https://github.com/ssijbabu/kalypso-gitops
   branch: dv
