@@ -5,5 +5,5 @@ metadata:
   labels:
      platform-config: "true"
 data:
-  ENVIRONMENT: Dev
+  ENVIRONMENT: dv
   SOME_COMMON_ENVIRONMENT_VARIABLE: "false"

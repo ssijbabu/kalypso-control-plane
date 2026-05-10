@@ -1,11 +1,11 @@
 apiVersion: scheduler.kalypso.io/v1alpha1
 kind: ClusterType
 metadata:
-  name: small
+  name: local
   labels: 
     region: west-us
     size: small
 spec:
-  reconciler: argocd
+  reconciler: flux
   namespaceService: default
   configType: configmap

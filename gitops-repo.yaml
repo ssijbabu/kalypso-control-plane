@@ -4,6 +4,6 @@ metadata:
   name: dev
 spec:
   repo: https://github.com/ssijbabu/kalypso-gitops
-  branch: dev
+  branch: dv
   path: .
 
