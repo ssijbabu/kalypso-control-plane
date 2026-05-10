@@ -3,6 +3,7 @@ kind: ClusterType
 metadata:
   name: local
   labels: 
+    location: local
     region: west-us
     size: small
 spec:
