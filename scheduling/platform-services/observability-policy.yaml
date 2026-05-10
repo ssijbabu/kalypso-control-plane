@@ -11,4 +11,4 @@ spec:
   clusterTypeSelector:
     labelSelector: 
       matchLabels:
-        size: large
+        location: local
